@@ -36,5 +36,34 @@ How total network throughput allocated to a VM instance ?
 > network bandwith is proportional to the no. of OCPUs in the instance shape 
 
 
+If want to leverage a managed Real Application Cluster (RAC) offering in OCI .
+Which OCI managed database service would you choose
+>  VM DM Systems
+
+OCI Compute Service 
+> You can launch either virtual machines or bare metal instances
+
+Best performance for running OLTP workloads in OCI 
+> OCI Exadata DB Systems
+
+Which OCI storage service doesn not provide encryption for data at rest ?
+> Local NvME
+
+Which Oracle responsiblity according to the OCI shared security model 
+> security of data center facilities
+
+Which security service is offered ny OCI 
+> Key management
+
+which two situations incur costs within oracle cloud infrastructure 
+> transferring data across regions & data egress to the internet
+
+which sla types is not offered by oracle cloud infrastructure compute service 
+> service plane
+
+you run OCI virtual machine instances on an OCI dedicated virtual host. how this deployment be billed ?
+> the dedicated virtual machine host and boot volumes of each instance will be billed
+
+
 
 
