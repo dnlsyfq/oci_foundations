@@ -84,6 +84,40 @@
 
 ## Disaster Recovery 
 
+* Disaster recovery involves set of policites, tools and 
+procedures to enable the recovery or continuation of vital technology
+infrastructure and systems
+
+* Disaster recovery key metrics :
+
+<img src="img/1.jpg">
+
+  > Recovery Point Objective, RPO
+  * How much data loss or transaction loss can your business tolerate
+  * i.e 24 hours
+
+
+  > Recovery Time Objective, RTO 
+  * How much downtime your business can tolerate 
+  * i.e 24 hours
+  * If downtime 24 hours recovery time took 48 hours , not ok
+
+
+## Cloud Terminology 
+
+* Fault Tolerance
+  * Describe how a cloud vendor will ensure minimal downtime for services
+    provided
+
+   i.e If Load Balancer fail , there's a standby copy of load balancer
+
+* Scability refers to scaling out (or in ) or scaling up (or down)
+  * Horizontal scaling : scaling out(or in) 
+  * Vertical scaling : scaling up(or down)
+
+* Elasticity
+  * ability to quickly increase or decrease resources 
+  * storage ,database 
 
 
 

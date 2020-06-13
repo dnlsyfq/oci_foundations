@@ -64,6 +64,17 @@ which sla types is not offered by oracle cloud infrastructure compute service
 you run OCI virtual machine instances on an OCI dedicated virtual host. how this deployment be billed ?
 > the dedicated virtual machine host and boot volumes of each instance will be billed
 
+### Capex
 
+Capital expenditure/expense 
+* money spends to buy, maintain or improve its fixed assets, such buildings, vehicles, equipment or land 
+
+### Opex
+
+Operational expenditure/expense
+* ongoing cost for running a product, business or system , utility 
+
+> Cloud lets you trade CAPEX for OPEX
+---
 
 
