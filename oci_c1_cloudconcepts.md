@@ -26,7 +26,7 @@
 ## Service models 
 
 ### Traditional IT
-
+```
 |-Applications (Consumer Manage)
 |-Data (Consumer Manage)
 |-Runtime (Consumer Manage)
@@ -36,9 +36,9 @@
 |-Servers (Consumer Manage)
 |-Storage (Consumer Manage)
 |-Networking (Consumer Manage)
-
+```
 ### Infrastructure as a service 
-
+```
 |-Applications (Consumer Manage)
 |-Data (Consumer Manage)
 |-Runtime (Consumer Manage)
@@ -48,10 +48,10 @@
 |-Servers (Delivered as a service)
 |-Storage (Delivered as a service)
 |-Networking (Delivered as a service)
-
+```
   ### Platform as a service
   * serverless @ Oracle Functions 
-  
+```  
 |-Applications (Consumer Manage)
 |-Data (Consumer Manage)
 |-Runtime (Delivered as a service)
@@ -61,9 +61,9 @@
 |-Servers (Delivered as a service)
 |-Storage (Delivered as a service)
 |-Networking (Delivered as a service)
-
+```
 ### Software as a service 
-
+```
 |-Applications (Delivered as a service)
 |-Data (Delivered as a service)
 |-Runtime (Delivered as a service)
@@ -73,7 +73,7 @@
 |-Servers (Delivered as a service)
 |-Storage (Delivered as a service)
 |-Networking (Delivered as a service)
-
+```
 ## High availability 
 
 * computing environments configured to provide nearly full time availability = high availability systems 
